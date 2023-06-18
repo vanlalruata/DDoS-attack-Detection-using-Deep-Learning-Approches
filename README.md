@@ -12,7 +12,7 @@ In this study, we provide Deep Neural Network (DNN) based approaches to detectin
 10.1109/I2CT57861.2023.10126434
 
 # URL:
-[https://link.springer.com/article/10.1007/s41870-023-01332-5](https://ieeexplore.ieee.org/document/10126434)
+[https://link.springer.com/article/10.1007/s41870-023-01332-5](https://ieeexplore.ieee.org/document/10126434)](https://ieeexplore.ieee.org/document/10126434)
 
 
 If you find this code and paper useful, kindly consider to cite from your valuable work.
